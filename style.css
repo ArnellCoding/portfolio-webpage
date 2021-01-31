@@ -79,3 +79,7 @@ footer {
   color: beige;
 }
 
+/* image border */
+main div img {
+  border-radius: 150px;
+}
